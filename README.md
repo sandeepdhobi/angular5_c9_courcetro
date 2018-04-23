@@ -1,10 +1,20 @@
 # AngularProject
 
+ONLY ANGULAR PROJECT IS TOPIC OF CONSIDERATION OTHERS ARE JUST FOR NODE SUPPROT   ---   IF DEVLOPMENT ON C9.IO
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+=============>
+
+RUN     ng serve --host $IP --port $PORT --public $C9_HOSTNAME      on c9.io
+
+<============
+
 
 ## Code scaffolding
 
